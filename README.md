@@ -28,4 +28,4 @@ Atualmente, estou me aprofundando em **Desenvolvimento Web**, **Unity3D** e **In
 ---
 
 ## 🐍 Snake Animation
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/felps-br/felps-br/blob/output/github-contribution-grid-snake.svg)
