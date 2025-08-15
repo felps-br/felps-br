@@ -62,7 +62,8 @@
   />
   <br>
   <br>
-  <img align="center" alt="Resumo Perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felps-br&theme=blue_navy"/>
+<img align="center" alt="Resumo Perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felps-br&theme=nord_dark"/>
+
   <br>
   <br>
   <img
