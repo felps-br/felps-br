@@ -1,10 +1,10 @@
 # 👋 Hi! Eu sou o Felps  
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Felps%20BR&fontSize=40&fontAlignY=35&animation=fadeIn)
 Sou um entusiasta da tecnologia e desenvolvimento de software, apaixonado por criar soluções criativas e eficientes.  
 Atualmente, estou me aprofundando em **Desenvolvimento Web**, **Unity3D** e **Integração de Sistemas**.  
 
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Felps%20BR&fontSize=40&fontAlignY=35&animation=fadeIn)
+
 
 ## 🚀 Tecnologias e Ferramentas
 
