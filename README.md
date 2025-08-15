@@ -22,7 +22,9 @@ Atualmente, estou me aprofundando em **Desenvolvimento Web**, **Unity3D** e **In
 ![Felps's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpsbrz&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsbrz&layout=compact&theme=tokyonight)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=felpsbrz.felpsbrz)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=felpsbrz)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📫 Contato
 
