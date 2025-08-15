@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Felps%20BR&fontSize=40&fontAlignY=35&animation=fadeIn)
-# 👋 Hi! Eu sou o Felps, Sou um entusiasta da tecnologia e desenvolvimento de software, 
+# 👋 Hi! Eu sou o Felps, facinado por tecnologia e desenvolvimento, 
 apaixonado por criar soluções criativas e eficientes.  
-Atualmente, estou me aprofundando em **Desenvolvimento Web**, 
-**Unity3D** e **Integração de Sistemas**.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+Atualmente, estou me aprofundando em **Desenvolvimento Web**,**Desenvolvimento Mobile** 
+****Desenvolvimento Jogos**** e **Integração de Sistemas**.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ---
 
