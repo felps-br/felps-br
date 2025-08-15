@@ -21,6 +21,9 @@ Atualmente, estou me aprofundando em **Desenvolvimento Web**, **Unity3D** e **In
 ---
 ![Felps's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpsbrz&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsbrz&layout=compact&theme=tokyonight)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=felpsbrz.felpsbrz)
+
 ## 📫 Contato
 
 <a href="mailto:felpsfatec@gmail.com">
