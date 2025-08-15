@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9745f5,100:00c6ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:001f4d,100:005b99"/>
 
 <br>
 
@@ -12,7 +12,9 @@
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffelps-br&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Visitas+no+perfil%3A++&ta=" /></p> 
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffelps-br&s=21&c=005b99&bg=00000000&no=2&ff=digi&tb=Visitas+no+perfil%3A++&ta=" />
+  </p> 
 </div>
       
 <br>
@@ -30,7 +32,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Sou+do+Brasil;Desenvolvedor+Web+e+Mobile;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=005b99&width=900&size=22&center=true&lines=Sou+do+Brasil;Desenvolvedor+Web+e+Mobile;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -50,20 +52,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=felps-br&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=felps-br&show_icons=true&count_private=true&rank_icon=github&theme=blue_navy&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felps-br&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felps-br&layout=compact&font=Iosevka&langs_count=16&theme=blue_navy"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Resumo Perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felps-br&theme=midnight_purple"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felps-br&theme=blue_navy"
   />
   <br>
   <br>
@@ -71,7 +73,7 @@
     height=154
     align="center"
     alt="Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=felps-br&theme=midnight-purple&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=felps-br&theme=blue_navy&card_width=885"
   />
   </div>
 
@@ -99,9 +101,9 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:felpsfatec@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9745f5)](https://www.instagram.com/seu_usuario)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/seu_linkedin/)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=005b99)](mailto:felpsfatec@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=005b99)](https://www.instagram.com/seu_usuario)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=005b99)](https://www.linkedin.com/in/seu_linkedin/)
 </div>
 
 <br>
@@ -114,4 +116,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9745f5,100:00c6ff&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:001f4d,100:005b99&height=100&section=footer"/>
