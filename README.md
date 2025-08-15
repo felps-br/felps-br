@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Felps%20BR&fontSize=40&fontAlignY=35&animation=fadeIn)
-# 👋 Hi! Eu sou o Felps, Sou um entusiasta da tecnologia e desenvolvimento de software, apaixonado por criar soluções criativas e eficientes.  
-Atualmente, estou me aprofundando em **Desenvolvimento Web**, **Unity3D** e **Integração de Sistemas**.  
+# 👋 Hi! Eu sou o Felps, Sou um entusiasta da tecnologia e desenvolvimento de software, 
+apaixonado por criar soluções criativas e eficientes.  
+Atualmente, estou me aprofundando em **Desenvolvimento Web**, 
+**Unity3D** e **Integração de Sistemas**.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ---
 
@@ -23,7 +25,7 @@ Atualmente, estou me aprofundando em **Desenvolvimento Web**, **Unity3D** e **In
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsbrz&layout=compact&theme=tokyonight)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=felpsbrz)
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📫 Contato
