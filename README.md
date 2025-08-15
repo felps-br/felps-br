@@ -16,6 +16,8 @@ Atualmente, estou me aprofundando em **Desenvolvimento Web**, **Unity3D** e **In
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+![GitHub followers](https://img.shields.io/github/followers/felpsbrz?style=social)
+![GitHub stars](https://img.shields.io/github/stars/felpsbrz?style=social)
 
 ---
 
