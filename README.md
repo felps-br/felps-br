@@ -31,7 +31,7 @@ apaixonado por criar soluções criativas e eficientes. Atualmente, estou me apr
 <a href="mailto:felpsfatec@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&reversal=true)
 ---
 
 ![Snake animation](https://github.com/felps-br/felps-br/blob/output/github-contribution-grid-snake.svg)
